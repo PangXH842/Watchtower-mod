@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Scout",
+        "movementType": "Land",
+        "uniques": ["Can build [Watchtower] improvements on tiles"]
+    }
+]
