@@ -3,7 +3,7 @@
 		"name": "Watchtower",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
 		"turnsToBuild": 6,
-		"techRequired": "Engineering",
+		"techRequired": "Masonry",
 		"uniques": [
             "Can be built outside your borders", 
             "Has an elevation of [2] for visibility calculations",
